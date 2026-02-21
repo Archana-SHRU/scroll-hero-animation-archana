@@ -32,4 +32,4 @@ Check out the live project here: [Scroll Hero Animation](https://scroll-hero-ani
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Archana-SHRU/scroll-hero-animation.git
+
