@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Scroll Hero Animation
 
-## Getting Started
+A visually appealing **scroll-based hero section animation** built with **HTML, CSS, and JavaScript / Next.js**. This project demonstrates smooth scroll effects, interactive animations, and responsive design for modern web pages.
 
-First, run the development server:
+## 🌐 Live Demo
+
+Check out the live project here: [Scroll Hero Animation](https://scroll-hero-animation-archana.vercel.app)
+
+---
+
+## 💡 Features
+
+- Smooth scroll animations on hero section  
+- Interactive elements responding to scroll position  
+- Responsive layout for mobile and desktop  
+- Lightweight and easy to integrate into existing projects  
+- Modern design using CSS animations and JavaScript  
+
+---
+
+## 🎥 Hero Section Animation
+
+![Hero Animation](./hero-animation.gif)  
+*Short looping animation showing the scroll effects in the hero section.*
+
+> **Tip:** You can also view the full interactive version in the [Live Demo](https://scroll-hero-animation-archana.vercel.app)
+
+---
+
+## 🛠 Installation
+
+1. **Clone the repository**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/Archana-SHRU/scroll-hero-animation.git
